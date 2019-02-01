@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_screen_padding">16dp</dimen>
+
+    <!--Country item-->
+    <dimen name="country_item_name_text_size">14sp</dimen>
+    <dimen name="country_item_padding_top">8dp</dimen>
+    <dimen name="country_item_padding_bottom">8dp</dimen>
+
+
+</resources>
